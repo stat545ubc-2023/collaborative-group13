@@ -4,11 +4,11 @@
 
 ## Team Members
 
-| First Name      | Last Name   | Member    | Introduction |
-|-----------------|-------------|-----------|--------------|
-| Yuefeng(Maxon)  | Zhao        |           |              |
-| Minghao         | Ma          |           |              |
-| Yian            | Lin         |           |              |
+| First Name      | Last Name   | Introduction |
+|-----------------|-------------|--------------|
+| Yuefeng(Maxon)  | Zhao        |              |    
+| Minghao         | Ma          |              |    
+| Yian            | Lin         |              |     
 
 
 
