@@ -4,11 +4,11 @@
 
 ## Team Members
 
-| First Name      | Last Name   | Introduction |
-|-----------------|-------------|--------------|
-| Yuefeng(Maxon)  | Zhao        | #2           |    
-| Minghao         | Ma          | #1           |    
-| Yian            | Lin         |              |     
+| First Name      | Last Name   | Introduction                                                              |
+|-----------------|-------------|---------------------------------------------------------------------------|
+| Yuefeng(Maxon)  | Zhao        | [Link](https://github.com/stat545ubc-2023/collaborative-group13/issues/2) |    
+| Minghao         | Ma          | [Link](https://github.com/stat545ubc-2023/collaborative-group13/issues/1) |    
+| Yian            | Lin         |                                                                           |     
 
 
 
