@@ -6,8 +6,8 @@
 
 | First Name      | Last Name   | Introduction |
 |-----------------|-------------|--------------|
-| Yuefeng(Maxon)  | Zhao        |              |    
-| Minghao         | Ma          |              |    
+| Yuefeng(Maxon)  | Zhao        | #2           |    
+| Minghao         | Ma          | #1           |    
 | Yian            | Lin         |              |     
 
 
