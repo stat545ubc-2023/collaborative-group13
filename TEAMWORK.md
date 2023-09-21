@@ -12,7 +12,7 @@ Our team is committed to a smooth and efficient workflow. Here are the guideline
 
 - **Minghao**: Aims to submit his pull request by **Wednesday, 5 pm** (changes will made after discussion).
 - **Maxon**: Aims to submit his pull request by **Thursday, 12 pm** (changes will made after discussion).
-- **Yian**: Given the dependencies between the tasks, we're mindful of not waiting until the last minute.
+- **Yian**: Aims to submit her pull request by **Thursday, 5 pm** (changes will made after discussion)
 > The aim is to complete Exercise 3 and 4 as soon as possible. So each team member can have sufficient time for reviewing, commenting, and debugging.
 
 ## 3. Communication
