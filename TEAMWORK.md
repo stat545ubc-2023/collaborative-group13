@@ -20,7 +20,7 @@ Our team is committed to a smooth and efficient workflow. Here are the guideline
 - **Primary Channel**: Slack for real-time communication, immediate clarifications, and scheduling meetings.
 - **Secondary Channel**: GitHub Issues for tracking bugs, tasks, and requests.
 - **Response Time**: We'll aim to respond to any related issues within 4 hours during the day.
-- **Meetings**: We will meet briefly after class on _Thursday, Sept. 21st and meet again at 8:30pm to discuss progress and make sure all tasks are completed. For other discussions, we'll rely on asynchronous communication.
+- **Meetings**: We will meet briefly after class on _Thursday, Sept. 21st_ and meet again at _8:30pm_ to discuss progress and make sure all tasks are completed. For other discussions, we'll rely on asynchronous communication.
 
 ---
 
