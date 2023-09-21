@@ -13,4 +13,5 @@
 
 
 [Course Webpage](https://stat545.stat.ubc.ca/course/)
-GitHub supports emoji! :+1: :sparkles: :camel: :tada: :rocket: :metal: :octocat:
+
+:+1: :sparkles: :camel: :tada: :rocket: :metal: :octocat:
