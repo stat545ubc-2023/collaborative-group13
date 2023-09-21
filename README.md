@@ -8,7 +8,7 @@
 |-----------------|-------------|---------------------------------------------------------------------------|
 | Yuefeng(Maxon)  | Zhao        | [Link](https://github.com/stat545ubc-2023/collaborative-group13/issues/2) |    
 | Minghao         | Ma          | [Link](https://github.com/stat545ubc-2023/collaborative-group13/issues/1) |    
-| Yian            | Lin         |                                                                           |     
+| Yian            | Lin         | [Link](https://github.com/stat545ubc-2023/collaborative-group13/issues/4) |     
 
 
 
