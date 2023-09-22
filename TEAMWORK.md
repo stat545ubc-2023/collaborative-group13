@@ -4,9 +4,25 @@ Our team is committed to a smooth and efficient workflow. Here are the guideline
 
 ## 1. Division of Labour
 
-- **Research**: Assigned to Alice. Alice will conduct the initial research on the topic and outline the main points.
-- **Writing**: Assigned to Bob. Based on Alice's research, Bob will write the content.
-- **Review**: Both Alice and Bob will review and refine the content. Each teammate will review the other's pull request.
+- **Exercise 1: Getting Setup**: Minghao.  
+- **Exercise 2: Markdown Formatting**: All.  
+- **Exercise 3: Merge one Pull Request per teammate:**  
+  - Minghao: review and merge Yian's pull request. 
+  - Yian: review and merge Maxon's pull request.
+  - Maxon: review and merge Minghao's pull request.
+- **Exercise 4: GitHub Issues**: All  
+- **Exercise 5: Teamwork Contract:**  
+  - First draft: Minghao.
+  - Second draft: Yian.
+  - Polish: All.
+- **Exercise 6: Troubleshooting document**:  
+  - First attempt: Maxon.
+  - Double-check: Yian and Minghao.    
+- **Exercise 7: README file**:  
+  - First draft: Maxon.
+  - Second draft: Minghao.
+  - Polish: All.
+- **Exercise 8: Submitting this Milestone**: Yian.
 
 ## 2. Timing
 
@@ -20,7 +36,7 @@ Our team is committed to a smooth and efficient workflow. Here are the guideline
 - **Primary Channel**: Slack for real-time communication, immediate clarifications, and scheduling meetings.
 - **Secondary Channel**: GitHub Issues for tracking bugs, tasks, and requests.
 - **Response Time**: We'll aim to respond to any related issues within 4 hours during the day.
-- **Meetings**: We will hold a meeting on _Thursday, Sept. 21st at 11am_ to work on the project together. For other discussions, we'll rely on asynchronous communication.
+- **Meetings**: We will meet briefly after class on _Thursday, Sept. 21st_ and meet again at _8:30pm_ to discuss progress and make sure all tasks are completed. For other discussions, we'll rely on asynchronous communication.
 
 ---
 
