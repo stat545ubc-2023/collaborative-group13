@@ -2,8 +2,8 @@
 
 Our team is committed to a smooth and efficient workflow. Here are the guidelines we've set for our collaboration:
 
-## 1. Division of Labour
-
+## 1. Division of Labour 
+### (1) For Milestone 1
 - **Exercise 1: Getting Setup**: Minghao.  
 - **Exercise 2: Markdown Formatting**: All.  
 - **Exercise 3: Merge one Pull Request per teammate:**  
@@ -23,6 +23,19 @@ Our team is committed to a smooth and efficient workflow. Here are the guideline
   - Second draft: Minghao.
   - Polish: All.
 - **Exercise 8: Submitting this Milestone**: Yian.
+
+### (2) For Milestone 2
+- **Exercise 0: Merge one Pull Request per teammate:**  
+  - Minghao: review and merge Yian's pull request. 
+  - Yian: review Minghao's pull request and merge Maxon's pull request
+  - Yian: update TEAMWORK.md 
+  - Maxon: review and merge Minghao's pull request.
+- **Exercise 1: Troubleshooting document**
+  - Minghao: Exercises 1-4 first attempt
+  - Yian: Exercises 1-4 review
+  - Maxon: Exercises 5-6 and knit the document to an md file
+- **Exercise 2: README file and tidy submission**: Yian
+- **Exercise 3: Submitting this Milestone**: Maxon.
 
 ## 2. Timing
 
