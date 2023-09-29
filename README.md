@@ -15,9 +15,11 @@ This is a collaborative project between three collaborators, Yuefeng(Maxon), Min
 
 ## Files in the Repository 
 * README.md - Overview of this repository and instructions about how to navigate through it
-* TEAMWORK.md - Guidelines for collaborators, including division of labour, timing of submission, and communication methods
+* TEAMWORK.md - Guidelines for collaborators, including division of labour for both Milestone 1 and 2, timing of submission, and communication methods
 * troubleshoot-1.Rmd - R markdown file that contains fixed R code
 * troubleshoot-1.md - Generated from knitting *troubleshoot-1.Rmd*
+* troubleshoot-2.Rmd - R markdown file that contains fixed R code
+* troubleshoot-2.md - Generated from knitting *troubleshoot-2.Rmd*
 
 ## How to run codes in this repository
 1. Download the repository to your local machine
