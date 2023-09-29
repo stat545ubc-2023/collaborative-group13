@@ -121,7 +121,7 @@ We can calculate the mean rating by year, and store it in a new column called `a
 ```{r}
 movieLens %>%
   group_by(year) %>%
-  summarize(avg_rating = mean(rating))
+  summarise(avg_rating = mean(rating))
 ```
 
 Using `summarize()`, we can find the minimum and the maximum rating by title, stored under columns named `min_rating`, and `max_rating`, respectively.
@@ -130,7 +130,7 @@ Using `summarize()`, we can find the minimum and the maximum rating by title, st
 ### ERROR HERE ###
 movieLens %>%
   group_by(title) %>%
-  summarise(min_rating = min(rating), 
+  summarize(min_rating = min(rating), 
          max_rating = max(rating))
 ```
 
