@@ -121,7 +121,7 @@ We can calculate the mean rating by year, and store it in a new column called `a
 ```{r}
 movieLens %>%
   group_by(year) %>%
-  summarize(avg_rating = mean(rating))
+  summarise(avg_rating = mean(rating))
 ```
 
 Using `summarize()`, we can find the minimum and the maximum rating by title, stored under columns named `min_rating`, and `max_rating`, respectively.
@@ -130,7 +130,7 @@ Using `summarize()`, we can find the minimum and the maximum rating by title, st
 ### ERROR HERE ###
 movieLens %>%
   group_by(title) %>%
-  summarise(min_rating = min(rating), 
+  summarize(min_rating = min(rating), 
          max_rating = max(rating))
 ```
 
@@ -149,13 +149,13 @@ starWars %>%
   summarise(across(where(is.numeric), function(x) mean(x, na.rm=TRUE)))
 ```
 
-We can find the minimum height and mass within each species, ignoring the missing values: 
+We can find the minimum height and mass within each species, ignoring the missing values:
 
 ```{r}
 ### ERROR HERE ###
 starWars %>%
   group_by(species) %>%
-  summarise(across("height", "mass", function(x) min(x, na.rm=TRUE)))
+  summarise(across(c("height", "mass"), ~min(.x, na.rm=TRUE)))
 ```
 
 Note that here R has taken the convention that the minimum value of a set of `NA`s is `Inf`.
@@ -170,17 +170,20 @@ Manually create a tibble with 4 columns:
 
 ```{r}
 ### ERROR HERE ###
-fakeStarWars <- tribble(
-  ~name,            ~birth_weight,  ~birth_year, ~birth_location
-  "Luke Skywalker",  1.35      ,   1998        ,  Liverpool, England,
-  "C-3PO"         ,  1.80      ,   1999        ,  Liverpool, England,
-  "R2-D2"         ,  2.25      ,   2000        ,  Seattle, WA,
-  "Darth Vader"   ,  2.70      ,   2001        ,  Liverpool, England,
-  "Leia Organa"   ,  3.15      ,   2002        ,  New York, NY,
-  "Owen Lars"     ,  3.60      ,   2003        ,  Seattle, WA,
-  "Beru Whitesun Iars", 4.05   ,   2004        ,  Liverpool, England,
-  "R5-D4"         ,  4.50      ,   2005        ,  New York, NY,
+
+
+fakeStarWars <- tibble(
+  name = c("Luke Skywalker", "C-3PO", "R2-D2", "Darth Vader", "Leia Organa", "Owen Lars", "Beru Whitesun Iars", "R5-D4"),
+  birth_year = 1998:2005,
+  birth_weight = (birth_year - 1995) * 0.45,
+  birth_location = c("Liverpool, England", "Liverpool, England", "Seattle, WA", "Liverpool, England", "New York, NY", "Seattle, WA", "Liverpool, England", "New York, NY")
 )
+
+fakeStarWarsFormatted <- fakeStarWars %>%
+  select(name, birth_weight, birth_year, birth_location)
+
+fakeStarWarsFormatted
+
 ```
 
 ## Attributions
